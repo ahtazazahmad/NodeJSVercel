@@ -57,3 +57,7 @@ npm run test
 ```
 npm run dev
 ```
+## Deployment 
+```
+vercel --prod
+```
